@@ -1,0 +1,28 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "https://uploads-ssl.webflow.com/5e9cea8d9ba599e6cf063d1f/5ed62d882e00bf45367a13b0_ICONTORL_LOGO_ICON_256.png",
+            "logo_1024": "https://uploads-ssl.webflow.com/5e9cea8d9ba599e6cf063d1f/5ebe2eef2c91502d1e96258c_ICONTORL_LOGO_ICON.png",
+            "logo_svg": "https://uploads-ssl.webflow.com/5e9cea8d9ba599e6cf063d1f/5ebe2eef2c91502d1e96258c_ICONTORL_LOGO_ICON.png"
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "https://twitter.com/icontrol_team",
+            "youtube": "",
+            "facebook": "",
+            "github": "https://github.com/icontrol-team",
+            "reddit": "",
+            "keybase": "https://keybase.io/icontrol_team",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "KOR",
+            "city": "Seoul"
+        },
+        "server_type": "cloud",
+        "api_endpoint": "9.9.9.9:9000"
+    }
+}
