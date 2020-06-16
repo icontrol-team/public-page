@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	email = control.b@gmail.com
+	name = icontrol-git
+[remote "origin"]
+	url = git@github.com-icontrol:icontrol-team/pulblic-page.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
